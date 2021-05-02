@@ -3,6 +3,8 @@ This Ruby project lets you assign an arbitrary number of House of Representative
 
 The 2010 version uses default data from the 2010 US Census, and the 2020 version uses default data from the 2020 US Census.
 
+#ExpandTheHouse
+
 ## Versions
 ### 2.0
 * Added 2020 Census data version
